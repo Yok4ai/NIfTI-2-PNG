@@ -55,5 +55,5 @@ def process_all_patients(data_dir):
             process_patient_folder(full_patient_folder)  # Process the patient folder.
 
 # Example usage
-data_dir = '/home/whatever/Documents/CSE499/BraTS-GLI-00000-000'  # Define the path to the main data directory containing patient folders.
+data_dir = './data/Example'  # Define the path to the main data directory containing patient folders.
 process_all_patients(data_dir)  # Call the function to process all patient folders in the specified data directory.
