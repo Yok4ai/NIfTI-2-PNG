@@ -3,7 +3,7 @@ This is a Python script that processes NIfTI (Neuroimaging Informatics Technolog
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [Setup](#installation)
 - [Usage](#usage)
 - [Requirements](#requirements)
   
