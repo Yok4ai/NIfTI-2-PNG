@@ -16,7 +16,7 @@ To get started, clone this repository and install the required dependencies. Mak
 git clone https://github.com/Yok4ai/NIfTI-2-PNG.git
 ```
 ```bash
-Setting Up Virtual Environment (Skip if using Conda or if you wish to use python from a global installation)
+# Setting Up Virtual Environment (Skip if using Conda or if you wish to use python from a global installation)
 cd NIfTI-2-PNG
 
 #Create Python Virtual Environment
