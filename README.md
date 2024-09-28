@@ -7,7 +7,7 @@ This is a Python script that processes NIfTI (Neuroimaging Informatics Technolog
 - [Usage](#usage)
 - [Requirements](#requirements)
   
-# Installation
+# Setup
 
 ## Clone Repo
 To get started, clone this repository and install the required dependencies. Make sure you have Python installed on your machine.
