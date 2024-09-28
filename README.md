@@ -33,6 +33,10 @@ venv\Scripts\activate  # On Windows
 # Install the required packages
 pip3 install -r requirements.txt
 ```
+Or manually install
+```bash
+pip3 install nibabel numpy pillow
+```
 ## Usage
 
 To use the NIfTI to PNG converter, follow these steps:
