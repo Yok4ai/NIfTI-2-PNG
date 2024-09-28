@@ -1,12 +1,6 @@
 # NIfTI to PNG Converter
 This is a Python script that processes NIfTI (Neuroimaging Informatics Technology Initiative) files and converts selected slices into PNG images. It uses the `nibabel`, `numpy`, and `Pillow` libraries to handle medical imaging data.
 
-## Table of Contents
-
-- [Setup](#installation)
-- [Usage](#usage)
-- [Requirements](#requirements)
-  
 # Setup
 
 ## Clone Repo
