@@ -45,4 +45,4 @@ To use the NIfTI to PNG converter, follow these steps:
 2. Run the `converter.py` file from the command line or your code editor.
 
 ```bash
-python converter.py
+python3 converter.py
