@@ -6,7 +6,7 @@ This is a Python script that processes NIfTI (Neuroimaging Informatics Technolog
 - [Installation](#installation)
 - [Usage](#usage)
 - [Requirements](#requirements)
-- 
+  
 ## Installation
 
 To get started, clone this repository and install the required dependencies. Make sure you have Python installed on your machine.
@@ -28,6 +28,7 @@ python3 -m venv venv
 source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate  # On Windows
 ```
+## Requirements
 ```bash
 # Install the required packages
 pip3 install -r requirements.txt
