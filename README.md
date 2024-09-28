@@ -20,8 +20,6 @@ git clone https://github.com/Yok4ai/NIfTI-2-PNG.git
 cd NIfTI-2-PNG
 
 #Create Python Virtual Environment
-
-#After navigating to the project directory write the following in the terminal
 python3 -m venv venv
 
 # Activate Virtual Environment
