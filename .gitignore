@@ -1,0 +1,2 @@
+#ignore python modules installed by pip
+NIfTI-2-PNG/lib/python3.12/*/site-packages/*
