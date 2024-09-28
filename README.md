@@ -7,16 +7,18 @@ This is a Python script that processes NIfTI (Neuroimaging Informatics Technolog
 - [Usage](#usage)
 - [Requirements](#requirements)
   
-## Installation
+# Installation
 
+## Clone Repo
 To get started, clone this repository and install the required dependencies. Make sure you have Python installed on your machine.
 
 ```bash
 # Clone the repository
 git clone https://github.com/Yok4ai/NIfTI-2-PNG.git
 ```
+## Setting Up Virtual Environment 
+### (Skip if using Conda or Python from a global installation)
 ```bash
-# Setting Up Virtual Environment (Skip if using Conda or Python from a global installation)
 cd NIfTI-2-PNG
 
 #Create Python Virtual Environment
