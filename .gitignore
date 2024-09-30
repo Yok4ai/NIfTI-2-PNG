@@ -1,3 +1,4 @@
 #ignore python modules installed by pip
 
 venv/
+data/
