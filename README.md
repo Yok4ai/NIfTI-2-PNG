@@ -36,11 +36,22 @@ pip3 install nibabel numpy pillow tkinterdnd2 matplotlib
 To use the NIfTI to PNG converter, follow these steps:
 
 1. Ensure you have activated your virtual environment.
-2. Run the `converter.py` file from the command line or your code editor.
+2. Run the `.py` files from the command line or your code editor.
+3. Make sure to change the directories in the script as required.
 
+For Example
 ```bash
 python3 converter.py
 ```
+To convert and delete the .nii files, run
+```bash
+python3 convertanddelete.py
+```
+To extract every slice of MRI images into PNG format, run
+```bash
+python3 extract-all-slices.py
+```
+
 ## GUI (Linux-only)
 Install the tkinter module
 ```bash
@@ -50,4 +61,4 @@ Run the script
 ```bash
 python3 gui-converter.py
 ```
-
+Drag and Drop the folder or Select the directory to convert the files inside. 
