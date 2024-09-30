@@ -29,7 +29,7 @@ pip3 install -r requirements.txt
 ```
 Or manually install
 ```bash
-pip3 install nibabel numpy pillow
+pip3 install nibabel numpy pillow tkinterdnd2 matplotlib
 ```
 ## Usage
 
