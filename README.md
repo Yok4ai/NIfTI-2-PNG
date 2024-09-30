@@ -40,3 +40,14 @@ To use the NIfTI to PNG converter, follow these steps:
 
 ```bash
 python3 converter.py
+```
+## GUI (Linux-only)
+Install the tkinter module
+```bash
+sudo apt install python3-tk
+```
+Run the script
+```bash
+python3 gui-converter.py
+```
+
